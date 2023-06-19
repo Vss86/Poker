@@ -1,3 +1,3 @@
 Victor Strand 
 
-Kommer fortsätta på detta!
+Ska funka att köra i konsollen
